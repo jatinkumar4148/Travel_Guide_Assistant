@@ -100,6 +100,6 @@ Add a chat-based interface
 Deploy on Streamlit Cloud / HuggingFace Spaces
 
 👤 Author
-Jatin Kumar
+Jatin Gound
 B.Tech CSE (AI/ML) Student
 AKTU | IMSEC
